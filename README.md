@@ -53,8 +53,12 @@ other:
 ---
 
 # 📝 Featured projects:
-- [SellIt](https://github.com/Krisu720/ecommerce-next-app) demo: https://ecommerce-next-app-krisu720.vercel.app
-- [cloud-storage](https://github.com/Krisu720/cloud-storage) demo: https://cloud-storage-chi.vercel.app
+- [cloud-storage](https://github.com/Krisu720/cloud-storage) live: https://cloud-storage-chi.vercel.app
+- [SellIt](https://github.com/Krisu720/ecommerce-next-app) live: https://ecommerce-next-app-krisu720.vercel.app
+
+### Not finished
+  
+- [admin-dashboard](https://github.com/Krisu720/admin-dashboard) live: https://admin-dashboard-krisu720.vercel.app
 
 ---
 
