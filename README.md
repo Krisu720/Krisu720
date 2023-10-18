@@ -20,11 +20,14 @@ styling:
 - react-three-fiber
 
 other:
+- trpc
 - zod
 - react-hook-form
 - zustand
 - socket.io
-
+- Markdown / MDX
+- React Query
+  
 ### What I know
 
 - redux
@@ -44,22 +47,19 @@ other:
 ---
 
 ### What I want to learn in the future:
-- trpc
-- react test library
-- Markdown
+- Cypress
 - GraphQl
-- react query
-
 ---
 
 # 📝 Featured projects:
-- [cloud-storage](https://github.com/Krisu720/cloud-storage) live: https://cloud-storage-chi.vercel.app
-- [SellIt](https://github.com/Krisu720/ecommerce-next-app) live: https://ecommerce-next-app-krisu720.vercel.app
-
-### Not finished
-  
-- [admin-dashboard](https://github.com/Krisu720/admin-dashboard) live: https://admin-dashboard-krisu720.vercel.app
-
+- Next/React [video-editor](https://video-editor-wine.vercel.app/) (I can show source code on job interviews)
+- Next/React [files-manager](https://github.com/Krisu720/files-manager) live: https://files-manager-krisu720.vercel.app/
+- Next/React [cloud-storage](https://github.com/Krisu720/cloud-storage) live: https://cloud-storage-chi.vercel.app
+- Next/React [SellIt](https://github.com/Krisu720/ecommerce-next-app) live: https://ecommerce-next-app-krisu720.vercel.app
+- Next/React [admin-dashboard](https://github.com/Krisu720/admin-dashboard) live: https://admin-dashboard-krisu720.vercel.app (DESIGN ONLY)
+- HTML/CSS/JS [business-js-website](https://github.com/Krisu720/business-js-website) live: https://stately-capybara-9f2e83.netlify.app/ (DESIGN ONLY)
+- Next/React [code-blog](https://github.com/Krisu720/code-blog) live: SOON
+- React Native / Express.js [ticket-app](https://github.com/Krisu720/ticket-app) live: SOON 
 ---
 
 # 📊 GitHub Stats:
