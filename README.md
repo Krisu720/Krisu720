@@ -23,7 +23,7 @@ other:
 - trpc
 - zod
 - react-hook-form
-- zustand
+- zustand / jotai
 - socket.io
 - Markdown / MDX
 - React Query
@@ -52,13 +52,13 @@ other:
 ---
 
 # 📝 Featured projects:
-- Next/React [video-editor](https://video-editor-wine.vercel.app/) (I can show source code on job interviews)
-- Next/React [files-manager](https://github.com/Krisu720/files-manager) live: https://files-manager-krisu720.vercel.app/
-- Next/React [cloud-storage](https://github.com/Krisu720/cloud-storage) live: https://cloud-storage-chi.vercel.app
-- Next/React [SellIt](https://github.com/Krisu720/ecommerce-next-app) live: https://ecommerce-next-app-krisu720.vercel.app
-- Next/React [admin-dashboard](https://github.com/Krisu720/admin-dashboard) live: https://admin-dashboard-krisu720.vercel.app (DESIGN ONLY)
-- HTML/CSS/JS [business-js-website](https://github.com/Krisu720/business-js-website) live: https://stately-capybara-9f2e83.netlify.app/ (DESIGN ONLY)
-- Next/React [code-blog](https://github.com/Krisu720/code-blog) live: SOON
+- Next.js video-editor (I can show source code on job interviews) live: https://video-editor-wine.vercel.app/
+- Next.js [files-manager](https://github.com/Krisu720/files-manager) live: https://files-manager-krisu720.vercel.app/
+- Next.js [cloud-storage](https://github.com/Krisu720/cloud-storage) live: https://cloud-storage-chi.vercel.app
+- Next.js [SellIt](https://github.com/Krisu720/ecommerce-next-app) live: https://ecommerce-next-app-krisu720.vercel.app
+- Next.js [admin-dashboard](https://github.com/Krisu720/admin-dashboard) live: https://admin-dashboard-krisu720.vercel.app (Not finished)
+- HTML/CSS/JS [business-js-website](https://github.com/Krisu720/business-js-website) live: https://stately-capybara-9f2e83.netlify.app/ 
+- Next.js [code-blog](https://github.com/Krisu720/code-blog) live: https://code-blog-alpha.vercel.app/pl (Not finished)
 - React Native / Express.js [ticket-app](https://github.com/Krisu720/ticket-app) live: SOON 
 ---
 
