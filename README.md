@@ -52,7 +52,6 @@ other:
 ---
 
 # 📝 Featured projects:
-- Next.js video-editor (I can show source code on job interviews) live: https://video-editor-wine.vercel.app/
 - Next.js [files-manager](https://github.com/Krisu720/files-manager) live: https://files-manager-krisu720.vercel.app/
 - Next.js [cloud-storage](https://github.com/Krisu720/cloud-storage) live: https://cloud-storage-chi.vercel.app
 - Next.js [SellIt](https://github.com/Krisu720/ecommerce-next-app) live: https://ecommerce-next-app-krisu720.vercel.app
@@ -60,6 +59,7 @@ other:
 - HTML/CSS/JS [business-js-website](https://github.com/Krisu720/business-js-website) live: https://stately-capybara-9f2e83.netlify.app/ 
 - Next.js [code-blog](https://github.com/Krisu720/code-blog) live: https://code-blog-alpha.vercel.app/pl (Not finished)
 - React Native / Express.js [ticket-app](https://github.com/Krisu720/ticket-app) live: SOON 
+- Next.js video-editor (I can show source code on job interviews) live: https://video-editor-wine.vercel.app/
 ---
 
 # 📊 GitHub Stats:
