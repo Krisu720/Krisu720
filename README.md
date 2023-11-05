@@ -30,6 +30,8 @@ other:
   
 ### What I know
 
+- Java (OOP,Constructors,Classes and Objects,Iheritance,Generics)
+
 - redux
 - mui
 - styled-components
