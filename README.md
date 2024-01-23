@@ -48,9 +48,8 @@ other:
 
 ---
 
-### What I want to learn in the future:
-- Cypress
-- GraphQl
+### What I am currently learning:
+- Playwright
 ---
 
 # 📝 Featured projects:
