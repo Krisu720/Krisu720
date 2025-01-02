@@ -1,7 +1,7 @@
 # Hi 👋, I'm Krzysztof
 
 ### 💻 Tech Stack
-- frontend:react,nextjs,typescript,react-native
+- frontend: react,nextjs,typescript,react-native
 - styling: tailwind,framer-motion,shadcn
 - backend: trpc, socket.io, drizzle
 
