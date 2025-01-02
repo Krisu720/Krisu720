@@ -1,58 +1,9 @@
-<h1>Hi 👋, I'm Krzysztof</h1>
+# Hi 👋, I'm Krzysztof
 
----
-
-# 💻 Tech Stack
-## Frontend 
-
-### What I currently use: 
-
-- react
-- nextjs
-- javascript
-- typescript
-
-
-styling:
-- tailwind css
-- framer-motion
-- radix-ui
-- react-three-fiber
-
-other:
-- trpc
-- zod
-- react-hook-form
-- zustand / jotai
-- socket.io
-- Markdown / MDX
-- React Query
-  
-### What I know
-
-- Java (OOP,Constructors,Classes and Objects,Iheritance,Generics)
-
-- redux
-- mui
-- styled-components
-- react-router
-- react native 
-
-## Backend
-
-- express.js
-- prisma
-- jsonwebtoken
-- mongoose
-- next-auth
-
----
-
-### What I am currently learning:
-- Playwright
-- Grahpql
-- Python
----
+### 💻 Tech Stack
+- frontend:react,nextjs,typescript,react-native
+- styling: tailwind,framer-motion,shadcn
+- backend: trpc, socket.io, drizzle
 
 # 📝 Featured public-code projects:
 - HTML/CSS/JS [business-js-website](https://github.com/Krisu720/business-js-website) 🔴 https://stately-capybara-9f2e83.netlify.app/ 🔴
